@@ -1,0 +1,16 @@
+{
+  "abcde": {
+    "rcv-eeps": [
+      "eepf60201"
+    ],
+    "hm-type": "HM-PB-4-WM",
+    "hm-address": "Any name"
+  },
+  "fghij": {
+    "rcv-eeps": [
+      "eepf60201"
+    ],
+    "hm-type": "HM-PB-4-WM",
+    "hm-address": "Another name"
+  }
+}
